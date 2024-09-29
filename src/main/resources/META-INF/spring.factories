@@ -1,2 +1,2 @@
 # Spring Boot Starter
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.fzq.tapiclientsdk.TapiClientConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.fzq.randclientsdk.RandClientConfig

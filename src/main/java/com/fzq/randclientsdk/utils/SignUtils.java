@@ -1,4 +1,4 @@
-package com.fzq.tapiclientsdk.utils;
+package com.fzq.randclientsdk.utils;
 
 import cn.hutool.crypto.digest.DigestAlgorithm;
 import cn.hutool.crypto.digest.Digester;
